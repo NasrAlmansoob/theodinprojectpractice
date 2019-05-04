@@ -1,0 +1,21 @@
+body{
+    background: white;
+    color:#222;
+    font-family: Arial, sans-serif;
+
+}
+
+#leftnav{
+    position: absolute;
+    margin: 7px 0 0 10px;
+}
+ 
+#navbar{
+    font-size: 13px;
+}
+.rightnavpadding{
+    padding-right: 15px;
+}
+.rightnavbutton{
+    
+}
